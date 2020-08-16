@@ -1,3 +1,0 @@
-sqlalchemy_grading_rubric.pdf
-Archive/
-Resources/
